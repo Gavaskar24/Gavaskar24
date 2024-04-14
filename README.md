@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Gavaskar Muppavaram</h1>
-<h3 align="center">A passionate Masters student from IISc, Bengaluru</h3>
+<h3 align="center">Masters student from IISc, Bengaluru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavaskar24&label=Profile%20views&color=0e75b6&style=flat" alt="gavaskar24" /> </p>
 
